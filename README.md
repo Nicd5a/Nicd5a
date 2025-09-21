@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nicolas. D and I'm a game dev/front end engineer, from Spain/Romania.</p>
+<p align="left">My name is Nicolas and I'm a software engineer from Spain.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Love2D<br>🎯 Goals: Make a complete RPG<br>🎲 Fun fact: I'm learning japanese</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning PLC<br>🎯 Goals: Have a great lifestyle<br>🎲 Fun fact: I can speak 5 languages</p>
 
 ###
 
@@ -29,7 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
